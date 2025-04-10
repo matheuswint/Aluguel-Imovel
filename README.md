@@ -11,4 +11,7 @@ Desenvolver uma aplicação simples onde usuários possam:
 - Histórico de Movimentações
 - Perfil do Usuário
 ## 🛠️ Tecnologias Utilizadas
-- React Native
+[React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/) (caso esteja usando)
+- [React Navigation](https://reactnavigation.org/)
+- [Styled Components](https://styled-components.com/) ou CSS-in-JS
